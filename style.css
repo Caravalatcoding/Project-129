@@ -1,0 +1,41 @@
+body
+{
+    background-size: cover;
+}
+
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    padding: 25px;
+    background:linear-gradient(to right,purple 20%, red 70%);
+    margin-top: 250px;
+}
+
+#SongName
+{
+    margin-top: 50px;
+    width: 500px;
+    padding:2%;
+    font-size: 50px;
+    font-family: Montserrat;
+    font-weight: bold;
+    background:linear-gradient(45deg,purple , violet,pink);
+    color: lightcyan;
+    border-radius: 75px;
+    border-color: silver;
+    border-width:5pt;
+}
